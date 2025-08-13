@@ -9,7 +9,7 @@ The owner of the store wants to open a reatil chain of the store, for that they 
 - <a href="https://github.com/KrutikaTathe/Power-BI-Data-Analysis-Dashboard/blob/Project-Files/superstore%20projr.pbix"> Superstore Dashboard</a>
 
 ## Screenshot of the Sales Analysis 
-- <a href="https://github.com/KrutikaTathe/Power-BI-Data-Analysis-Dashboard/blob/Project-Files/Screenshot%202025-08-13%20193209.png">  Superstore Dataset</a>
+- <a href="https://github.com/KrutikaTathe/Power-BI-Data-Analysis-Dashboard/blob/Project-Files/Screenshot%202025-08-13%20193209.png"> Sales Dashboard Screenshot</a>
 
 ## Screenshot of the Customer Analysis
-- <a href="
+- <a href="https://github.com/KrutikaTathe/Power-BI-Data-Analysis-Dashboard/blob/Project-Files/Screenshot%202025-08-13%20193232.png"> Customer Dashboard Screenshot</a>
