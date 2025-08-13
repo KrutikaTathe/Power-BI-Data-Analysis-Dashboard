@@ -7,3 +7,6 @@ The owner of the store wants to open a reatil chain of the store, for that they 
 
 ## Dashboard File
 - <a href="https://github.com/KrutikaTathe/Power-BI-Data-Analysis-Dashboard/blob/Project-Files/superstore%20projr.pbix"> Superstore Dashboard</a>
+
+## Screenshot of the Sales Analysis 
+- <a href=" ">  Superstore Dataset</a>
